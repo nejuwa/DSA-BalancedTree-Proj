@@ -1,13 +1,30 @@
-# Bank Management System
 
-## Features
-- Create Account
-- Deposit and Withdraw
-- View Balance
 
-## How to Run
-1. Compile: `g++ file.cpp -o program`
-2. Run: `.\program`
+# 🎓 Student Management System (AVL Tree)
 
-> Note: Make sure you have the database folder!
+> A simple **Student Management System** implemented with an _AVL (balanced BST)_ in C++.
+
+---
+
+## 📋 **Features**
+
+- **Insert** student records (ID, Name, Department, GPA)  
+- **Search** student by ID  
+- **Update** student information  
+- **Delete** student record  
+- **Display** all students via:
+  - `Inorder` traversal  
+  - `Preorder` traversal  
+  - `Postorder` traversal  
+
+---
+
+## 🚀 **How to Run**
+
+1. **Open terminal** in the project folder.  
+2. **Compile**:
+   ```bash
+   g++ DSA-Balanced-Tree.cpp -o tree.exe
+3. **Run
+   .\tree.exe
 
